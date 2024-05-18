@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/foodsite/static/css/main.95c1d278.css",
+    "main.js": "/foodsite/static/js/main.ccb50bdb.js",
+    "static/media/Mainimg.png": "/foodsite/static/media/Mainimg.a72f0bf06a3fa900756f.png",
+    "static/media/Mainimg1.jpg": "/foodsite/static/media/Mainimg1.07c748696ddfdee9a2bf.jpg",
+    "static/media/sad.png": "/foodsite/static/media/sad.5edbe13c96d814d69e3b.png",
+    "static/media/tyumen.png": "/foodsite/static/media/tyumen.79c3e311ac5b3118f5a3.png",
+    "static/media/pizza.jpeg": "/foodsite/static/media/pizza.4bad374e69fd54265410.jpeg",
+    "static/media/Chicken.jpeg": "/foodsite/static/media/Chicken.25ba46a08fa42591f954.jpeg",
+    "static/media/fish.jpeg": "/foodsite/static/media/fish.9819243aa1dff27a4c0b.jpeg",
+    "static/media/corndog.jpeg": "/foodsite/static/media/corndog.9306bd75dc39fbbcdf4f.jpeg",
+    "static/media/sushi.jpeg": "/foodsite/static/media/sushi.b2851015a34f3f710c74.jpeg",
+    "static/media/logo.png": "/foodsite/static/media/logo.a9322b3f08fe625bda6f.png",
+    "index.html": "/foodsite/index.html",
+    "main.95c1d278.css.map": "/foodsite/static/css/main.95c1d278.css.map",
+    "main.ccb50bdb.js.map": "/foodsite/static/js/main.ccb50bdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95c1d278.css",
+    "static/js/main.ccb50bdb.js"
+  ]
+}
