@@ -1,0 +1,189 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 40px 8px 18px;
+  border-bottom: 1px solid #a4acad;
+  margin-bottom: 30px;
+}
+
+.header__left {
+  display: flex;
+  align-items: center;
+  align-items: center;
+}
+
+.header__phone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  padding-right: 10px;
+}
+
+.header__phone:before {
+  position: absolute;
+  content: '';
+  height: 94.5px;
+  width: 1px;
+  background-color: #a4acad;
+  right: 0;
+  top: -6px;
+}
+
+.header__phone-title {
+  color: #111111;
+  font-family: DIN Pro, sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+}
+
+.header__phone-tel {
+  color: #ff9846;
+  font-family: DIN Pro, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 100%;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.header__phone-tel:hover {
+  color: #111111;
+  transition: 0.3s;
+}
+.header__phone-time {
+  color: #a4acad;
+  font-family: DIN Pro, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  margin-top: 5px;
+  display: flex;
+  column-gap: 5px;
+  align-items: center;
+}
+.header__address {
+  padding-left: 10px;
+}
+.header__address-title {
+  color: #a4acad;
+  font-family: DIN Pro, sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 17px;
+  margin-bottom: 4px;
+}
+
+.header__address-city {
+  color: #000000;
+  font-style: normal;
+  font-family: DIN Pro, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+}
+.header__right {
+  display: flex;
+  column-gap: 69px;
+  align-items: center;
+}
+.header__list {
+  display: flex;
+  column-gap: 10px;
+  align-items: center;
+}
+.header__list-item {
+}
+.header__link {
+  color: #111111;
+  font-family: DIN Pro, sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  transition: 0.3s;
+}
+.header__link.active {
+  color: #ff9846;
+}
+.header__link:hover {
+  color: #ff9846;
+  transition: 0.3s;
+}
+
+.header__search {
+  display: flex;
+  align-items: center;
+  column-gap: 15px;
+  position: relative;
+}
+
+.header__search-input {
+  color: #111111;
+  background-color: transparent;
+  width: 230px;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid black;
+  font-size: 20px;
+  padding-left: 5px;
+  letter-spacing: 2px;
+}
+
+.header__search-btn {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+.header__search-list {
+  position: absolute;
+  background-color: #fff;
+  top: 100%;
+  width: calc(100% + 60px);
+  left: -35%;
+  z-index: 5;
+  border-radius: 4px;
+  padding: 10px 8px;
+  display: flex;
+  overflow: auto;
+  flex-direction: column;
+  row-gap: 20px;
+  max-height: 450px;
+  box-shadow: -4px 5px 13px -7px rgba(0, 0, 0, 1);
+}
+
+.header__search-list-item {
+  display: flex;
+  column-gap: 20px;
+  align-items: center;
+}
+.header__search-list-img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.header__search-list-info {
+}
+.header__search-list-title {
+  color: #111111;
+  font-family: DIN Pro, sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  margin-bottom: 5px;
+}
+.header__search-list-price {
+  color: #000000;
+  font-family: DIN Pro, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+}

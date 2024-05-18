@@ -1,0 +1,25 @@
+.Delivery {
+  margin: 30px 15px;
+  text-align: left;
+  font-family: DINPro-Medium, sans-serif;
+}
+.Delivery__title {
+  font-size: 36px;
+  line-height: 45px;
+  color: #242424;
+  padding: 0;
+  margin-bottom: 29px;
+  letter-spacing: 0.5px;
+}
+.Delivery__text-bold {
+  font-size: 16px;
+  font-weight: bold;
+}
+.Delivery__list li {
+  list-style-type: disc;
+  margin: 20px 0;
+}
+
+.Delivery__subtitle {
+  margin: 20px 0 20px;
+}

@@ -1,0 +1,2494 @@
+{
+  "pizza": [
+    {
+      "id": "0",
+      "imageUrl": "https://sun9-42.userapi.com/impg/43562GDaoftt5KRYUwfLTy-wW4PIJNxmxGw0rg/GJaenwvxlhY.jpg?size=520x0&quality=95&sign=d92f9db07b2150abe4148db2dee2e125",
+      "title": "Пепперони Фреш с перцем",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 245,
+      "priceMiddle": 399,
+      "priceLarge": 499,
+      "categories": "pizza",
+      "rating": 4
+    },
+    {
+      "id": "1",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/50555f951a6d4fd4ac0088c099eb3769_1875x1875.png",
+      "title": "Сырная",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 245,
+      "priceMiddle": 399,
+      "priceLarge": 499,
+      "categories": "pizza",
+      "rating": 6
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/45cc8ffb190c4a28aaf1863a67f675c7_1875x1875.jpeg",
+      "title": "Цыпленок барбекю",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 395,
+      "priceMiddle": 599,
+      "priceLarge": 749,
+      "categories": "pizza",
+      "rating": 4
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://sun9-33.userapi.com/impf/c850636/v850636013/18c85a/7E5V0MNNreI.jpg?size=520x0&quality=95&sign=84183fc81ee8bfb7ee75079982f0ad8d",
+      "title": "Кисло-сладкий цыпленок",
+      "types": [
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 395,
+      "priceMiddle": 599,
+      "priceLarge": 749,
+      "categories": "pizza",
+      "rating": 2
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://irecommend.ru/sites/default/files/product-images/278223/XRIa4KxVJxkTmHSqcYXbg.jpg",
+      "title": "Чизбургер-пицца",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 365,
+      "priceMiddle": 529,
+      "priceLarge": 649,
+      "categories": "pizza",
+      "rating": 8
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://sun9-12.userapi.com/impg/TyrlxVRfwM-vFElO4WUHccBunNHfgEyQogLsXw/2hoZhx5YWmk.jpg?size=520x0&quality=95&sign=86647ab84da81d8906a84a43801e4938",
+      "title": "Крэйзи пепперони",
+      "types": [
+        0
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 245,
+      "priceMiddle": 399,
+      "priceLarge": 499,
+      "categories": "pizza",
+      "rating": 2
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://sun9-58.userapi.com/impg/ITb43prKQNVhVNPX2C1AmSxfFMx4tF46d4vP6Q/it5KyzEYWSo.jpg?size=584x584&quality=96&sign=7c789dbd3110f9dbb1db51867f5d0d50&type=album",
+      "title": "Пепперони",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 365,
+      "priceMiddle": 529,
+      "priceLarge": 649,
+      "categories": "pizza",
+      "rating": 9
+    },
+    {
+      "id": "7",
+      "imageUrl": "https://s3.eu-north-1.amazonaws.com/restoraids/media/28931414-b8d0-4116-b9e7-9121d5f19422.jpg",
+      "title": "Маргарита",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 295,
+      "priceMiddle": 449,
+      "priceLarge": 569,
+      "categories": "pizza",
+      "rating": 10
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://sun1-93.userapi.com/impf/MbqTl69WBY5adlA99cty-AlNi4yq-uhyjTNPJw/xuweFrS26M4.jpg?size=807x807&quality=96&sign=86193ebe1882f7ee495dc8635ba2267f&c_uniq_tag=QrUDk01zhVA-9ObKRSGOGqiJBD1kv1hKLlVj0hy2rDU&type=album",
+      "title": "Четыре сезона",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 365,
+      "priceMiddle": 529,
+      "priceLarge": 649,
+      "categories": "pizza",
+      "rating": 10
+    },
+    {
+      "id": "9",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/d6c9f93ea37649ac923e9586c034a5a0_1875x1875.png",
+      "title": "Овощи и грибы",
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "size": 0,
+      "price": 365,
+      "priceMiddle": 529,
+      "priceLarge": 649,
+      "categories": "pizza",
+      "rating": 7
+    }
+  ],
+  "sushi": [
+    {
+      "id": "1",
+      "title": "суши с угрем",
+      "price": 95,
+      "imageUrl": "https://origami-evp.ru/uploads/webp/catalog/sushisugrem1.webp",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "угорь"
+      ],
+      "categories": "sushi"
+    },
+    {
+      "id": "2",
+      "title": "суши с креветкой",
+      "price": 60,
+      "imageUrl": "https://xn--80affoq7ao4b.shop/wp-content/uploads/2020/10/sushi-s-krevetkoj-35-gr-ris-krevetka.jpg",
+      "ingredients": [
+        "Рис",
+        "креветка"
+      ],
+      "categories": "sushi"
+    },
+    {
+      "id": "3",
+      "title": "суши с лососем",
+      "price": 80,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpfYdqp5t6ok86fBWBgW2pP_xQcAXzrcy0b26x302AqTPew9dJFV03Nvhx745FuXk7s28&usqp=CAU",
+      "ingredients": [
+        "Рис",
+        "лосось"
+      ],
+      "categories": "sushi"
+    },
+    {
+      "id": "4",
+      "title": "Гункан Чиккен спайси",
+      "price": 40,
+      "imageUrl": "https://sushipoima.ru/upload/iblock/4bb/4bb0302c59392dd67a32e3d57f7367f7.jpg",
+      "ingredients": [
+        "Рис",
+        "нори",
+        "Чиккен спайси",
+        "огурцы"
+      ],
+      "categories": "sushi"
+    },
+    {
+      "id": "5",
+      "title": "суши с тунцом",
+      "price": 110,
+      "imageUrl": "https://api.satoshisushi.ru/storage/488916b4c2c0872bb0a9aca13f58bc5d_origin.jpg",
+      "ingredients": [
+        "Рис",
+        "тунец"
+      ],
+      "categories": "sushi"
+    }
+  ],
+  "sets": [
+    {
+      "id": "1",
+      "title": "Весна",
+      "count": 68,
+      "combo": [
+        "Филадельфия 10шт",
+        "Хару маки 8шт",
+        "Майами 8шт",
+        "Цезарь 10шт",
+        "Эби чиз ролл 10шт",
+        "Сяке хотто 10",
+        "Чипо 8шт"
+      ],
+      "price": 1190,
+      "categories": "sets",
+      "imageUrl": "https://sun9-75.userapi.com/impf/c836430/v836430612/5bc1c/B-OO8BY-eU8.jpg?size=604x604&quality=96&sign=f626971edd19628876774afc0cac6b11&type=album"
+    },
+    {
+      "id": "2",
+      "title": "БигЛайт",
+      "count": 32,
+      "combo": [
+        "Филадельфия 8шт",
+        "Ролл с омлетом 8шт",
+        "Америка 8шт",
+        "Мини ролл с чукой 8шт"
+      ],
+      "price": 690,
+      "categories": "sets",
+      "imageUrl": "https://sun9-64.userapi.com/impg/p0Ii4wsmPFRoFTZinKMUCqdV3Posv-5HakKNFA/EC9cN59pyFI.jpg?size=604x604&quality=96&sign=d39f1596870bab0cfc64491469421b15&type=album"
+    },
+    {
+      "id": "3",
+      "title": "БигСет",
+      "count": 32,
+      "combo": [
+        "Филадельфия 8шт",
+        "Ролл с омлетом 8шт",
+        "Америка 8шт",
+        "Мини ролл с чукой"
+      ],
+      "price": 690,
+      "categories": "sets",
+      "imageUrl": "https://imgproxy.sbermarket.ru/imgproxy/size-680-680/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzIyNjgyODA0L29yaWdpbmFsLzEvMjAyMy0wOC0xNlQxNCUzQTE3JTNBMjQuNzQ1ODY3JTJCMDAlM0EwMC8yMjY4MjgwNF8xLmpwZWc=.jpeg"
+    },
+    {
+      "id": "4",
+      "title": "Гармония",
+      "count": 30,
+      "combo": [
+        "Гункан чикен спайси 2шт",
+        "Суши с креветкой 2шт",
+        "Суши с лососем 2шт",
+        "Калифорния 8шт",
+        "Филадельфия 8шт",
+        "Майами 8шт"
+      ],
+      "price": 1050,
+      "categories": "sets",
+      "imageUrl": "https://sun9-79.userapi.com/impf/c836521/v836521231/7a76c/UZp_arB8xnw.jpg?size=604x604&quality=96&sign=4fbd49a33c5d42ab9019db9776391ced&type=album"
+    },
+    {
+      "id": "5",
+      "title": "Лайт",
+      "count": 16,
+      "combo": [
+        "Филадельфия 4шт",
+        "Роллы с омлетом 4шт",
+        "Америка 4шт",
+        "Мини ролл с Чукой 4шт"
+      ],
+      "price": 370,
+      "categories": "sets",
+      "imageUrl": "https://sushi-nyam.ru/img/_s/et/_set_jpg_1429820209.jpg$i$max$700$700$cc$$.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "Темпура",
+      "count": 54,
+      "combo": [
+        "Чиз кунсей 10шт",
+        "Америка 10шт",
+        "Унаги темпуро 10шт",
+        "Спайси харумаки 10шт",
+        "Конверты с крабом 4шт",
+        "Сяке хотто 10шт"
+      ],
+      "price": 990,
+      "categories": "sets",
+      "imageUrl": "https://sun9-13.userapi.com/impf/c836637/v836637456/f8c7/WqlzurmcVsI.jpg?size=604x604&quality=96&sign=3edd0a65331f1ea46190b7386c476947&type=album"
+    },
+    {
+      "id": "7",
+      "title": "Хит",
+      "count": 40,
+      "combo": [
+        "Чиз кунсей 10шт",
+        "Бонито 10шт",
+        "Чипо 10шт",
+        "Чикен спайси 8шт",
+        "Гункан чикен спайси 2шт"
+      ],
+      "price": 750,
+      "categories": "sets",
+      "imageUrl": "https://dya.sushihit67.ru/components/com_jshopping/files/img_products/full_set-vygodnyj.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Суси",
+      "count": 26,
+      "combo": [
+        "2 суши с тунцом",
+        "2 суши с с креветкой",
+        "2 суши с лососем",
+        "2 суши с угрем"
+      ],
+      "price": 790,
+      "categories": "sets",
+      "imageUrl": "https://static.tildacdn.com/tild6534-6665-4435-a232-626161383630/losos_na2.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Ромсем",
+      "count": 58,
+      "combo": [
+        "Ролл с тунцом 10шт",
+        "Филадельфия 10шт",
+        "Дракон 10шт",
+        "Калифорния с ласосем 10шт",
+        "Майами 10шт",
+        "Запеченная филадельфия 8шт"
+      ],
+      "price": 1780,
+      "categories": "sets",
+      "imageUrl": "https://wasabi.kg/wp-content/uploads/2021/09/set-8.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Сет «Ассорти»",
+      "count": 35,
+      "combo": [
+        "Филадельфия 4шт",
+        "Калифорния с крабом 4шт",
+        "Чипо 4шт",
+        "Ролл с омлетом 4шт",
+        "Овара 5шт",
+        "Цезарь 5шт",
+        "Америка 5шт",
+        "Запеченный ролл с курицей 4шт"
+      ],
+      "price": 750,
+      "categories": "sets",
+      "imageUrl": "https://sushigorodok.ru/assets/images/products/131/set-assorti.jpg"
+    }
+  ],
+  "wok": [
+    {
+      "id": "1",
+      "title": "Босо лагман",
+      "price": 365,
+      "imageUrl": "https://storage.emenu.delivery/product/images/sf/da/sfdagkysuukuyqx-zrqxzgahwjnm2gug.png",
+      "youtube": "https://www.youtube.com/watch?v=bZZWI9NynSM",
+      "ingredients": [
+        "перец",
+        "кунжут чинсай",
+        "китайская капуста",
+        "соевый соус"
+      ],
+      "categories": "wok"
+    },
+    {
+      "id": "2",
+      "title": "Жидкий лагман",
+      "price": 465,
+      "imageUrl": "https://storage.emenu.delivery/product/images/t6/e9/t6e9c69kjdds_nfmjsd9zz9mh5korc9g.jpg",
+      "youtube": "https://www.youtube.com/watch?v=LZAnBgtCbKI",
+      "ingredients": [
+        "перец",
+        "китайская капуста",
+        "Кинза",
+        "подлив"
+      ],
+      "categories": "wok"
+    },
+    {
+      "id": "3",
+      "title": "Могуру лагман",
+      "price": 380,
+      "imageUrl": "https://sun9-69.userapi.com/impg/1mC2qIjGYEe3-nH0wXyr2zMFkaj7TIvM88naQg/Wb4EtnbaNpw.jpg?size=807x807&quality=95&sign=31f72427f48e411734ca200ef1602a4c&c_uniq_tag=DQ2oqFtpbubWEHuRxSr3A0XnE04vxfE4UYSBsfJi8c0&type=album",
+      "youtube": "https://www.youtube.com/watch?v=1-QpIiIDeuw",
+      "ingredients": [
+        "перец",
+        "древесные грибы",
+        "китайская капуста",
+        "форель",
+        "Кинза",
+        "краб",
+        "древесные грибы",
+        "трюфель"
+      ],
+      "categories": "wok"
+    },
+    {
+      "id": "4",
+      "title": "Цомян лагман",
+      "price": 265,
+      "imageUrl": "https://storage.emenu.delivery/product/images/hr/w1/hrw1ldwz3es_hmfj_8c0yfhetkm1g8kg.png",
+      "youtube": "https://www.youtube.com/watch?v=i89RnmfYCVY&t=12s",
+      "ingredients": [
+        "Мясо",
+        "Лук",
+        "Болгарский перец (красный)",
+        "Пекинская капуста",
+        "Сельдерей стручковый",
+        "Фасоль стручковая (джандо)",
+        "Зелень (лук и листья сельдерея)",
+        "Соевый соуc",
+        "Томатная паста",
+        "Перец острый",
+        "Чеснок",
+        "Соль",
+        "Хаджо",
+        "Черный перец",
+        "Масло растительное"
+      ],
+      "categories": "wok"
+    },
+    {
+      "id": "5",
+      "title": "Гуйру лагман",
+      "price": 320,
+      "imageUrl": "https://storage.emenu.delivery/product/images/72/jl/72jlhb7mt8u6bfhl_7kjby0fhp0_lh16.jpg",
+      "youtube": "https://www.youtube.com/watch?v=eeP6pyuwCCo",
+      "ingredients": [
+        "мясо",
+        "большая луковица",
+        "помидор",
+        "свежий перец",
+        "селдерей",
+        "соль перец по вкусу",
+        "специи для лагмана",
+        "томатная  паста",
+        "соевой соус",
+        "растительное масло"
+      ],
+      "categories": "wok"
+    }
+  ],
+  "rolls": [
+    {
+      "id": "1",
+      "title": "Дракон",
+      "price": 300,
+      "imageUrl": "https://img-api.yumapos.ru/image/crop/original/4493a9f3-11df-9a93-c629-7afc8073bd33.png",
+      "ingredients": [
+        "нори",
+        "cыр",
+        "угорь",
+        "унаги",
+        "соус"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "2",
+      "title": "Эби маки",
+      "price": 300,
+      "imageUrl": "https://www.go-zakaz.ru/image/cache/catalog/spajsiebi1-450x450.jpg",
+      "ingredients": [
+        "нори",
+        "cыр чеддер",
+        "креветка",
+        "огурец",
+        "сыр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "3",
+      "title": "Эби чиз ролл",
+      "price": 300,
+      "imageUrl": "https://izumi-sushi.ru/wp-content/uploads/2017/01/Jebi-Chiz-Risnorikrevetka-tigrovajasyr.jpg",
+      "ingredients": [
+        "нори",
+        "cыр чеддер",
+        "креветка",
+        "огурец",
+        "сыр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "4",
+      "title": "Фудзияма",
+      "price": 300,
+      "imageUrl": "https://sushin-syn.ru/image/cache/catalog/products_19/fudziyama-1000x1000.jpg",
+      "ingredients": [
+        "нори",
+        "cыр",
+        "шрирачо",
+        "креветка",
+        "огурец",
+        "масаго"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "5",
+      "title": "Ролл с огурцом",
+      "price": 120,
+      "imageUrl": "https://sun9-49.userapi.com/impg/qkbSLDy78fFz50NIk6sReI59wJmS5yL84W1ECw/Gkbdd_xma6w.jpg?size=604x604&quality=95&sign=d64a7b958db8fdbccb25a3f9d9d5b6fe&c_uniq_tag=ZNzkUVfCoRFxNePhF3ENpXvOIgeEkjiu7xHALkc6QS0&type=album",
+      "ingredients": [
+        "Огурец",
+        "cыр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "6",
+      "title": "Ролл с омлетом",
+      "price": 150,
+      "imageUrl": "https://sushi-nyam.ru/img/_s/ja/_sjake_jpg_1423756657.jpg$i$max$700$700$cc$$.jpeg",
+      "ingredients": [
+        "Омлет",
+        "cыр",
+        "нори"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "7",
+      "title": "Чипо",
+      "price": 180,
+      "imageUrl": "https://xn--64-jlcqn8i.xn--p1ai/wp-content/uploads/2022/12/Picsart_22-12-14_18-58-10-542-660x660.jpg",
+      "ingredients": [
+        "цезарь",
+        "соус",
+        "нори",
+        "курица",
+        "сыр пармезан",
+        "помидоры"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "8",
+      "title": "Филадельфия",
+      "price": 902,
+      "imageUrl": "https://sun9-64.userapi.com/impg/VupDLX9hSuuxT-ElFk7hlpQCRrYJQ2TyeR2jUA/UdwDdEi6_g4.jpg?size=604x604&quality=96&sign=2545471dbf681d2111855fe8e7affef8&type=album",
+      "ingredients": [
+        "нори",
+        "cыр",
+        "лосось"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "9",
+      "title": "Овара",
+      "price": 250,
+      "imageUrl": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/owara.jpg",
+      "ingredients": [
+        "масаго",
+        "лук",
+        "стружки тунца",
+        "кунжут",
+        "очищенная кожа семги"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "10",
+      "title": "Бонито",
+      "price": 230,
+      "imageUrl": "https://avatars.mds.yandex.net/get-altay/5579175/2a0000017e57b6b373f055ae45ece01e168d/XXL",
+      "ingredients": [
+        "нори",
+        "лук",
+        "струж тунца",
+        "кунжут",
+        "огурцы"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "11",
+      "title": "Калифорния с лососем",
+      "price": 295,
+      "imageUrl": "https://img-api.yumapos.ru/image/crop/original/7f67bb1e-f1dc-d50a-4398-2eca90ce7f0b.png",
+      "ingredients": [
+        "нори",
+        "сыр",
+        "лосось",
+        "огурцы"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "12",
+      "title": "Калифорния с крабом",
+      "price": 295,
+      "imageUrl": "https://sun9-1.userapi.com/impg/M3IBgqbIRxHQ9mNX7tIcQ17MMOBcNu0opus8cw/pserjzbUuiU.jpg?size=604x604&quality=95&sign=4e0947ee96d021ab4f8db93a6f4dfdd7&c_uniq_tag=FKuQQUSYpDStiYewx224BEdhK3yJ26xU4jc1Vv_h5Qg&type=album",
+      "ingredients": [
+        "нори",
+        "сыр",
+        "краб",
+        "огурцы"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "13",
+      "title": "Тигровый ролл",
+      "price": 700,
+      "imageUrl": "https://media.leverans.ru/product_images_inactive/spb/comedy-cafe/roll-tigr_VqUlPy9.jpg",
+      "ingredients": [
+        "нори",
+        "лосось",
+        "креветка",
+        "сыр",
+        "огурцы"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "14",
+      "title": "Ролл с тунцом",
+      "price": 700,
+      "imageUrl": "https://storage.emenu.delivery/product/images/k-/es/k-estasvv3dkrrixaczlzhrwm9yazbtc.jpg",
+      "ingredients": [
+        "тунец",
+        "нори",
+        "огурцы",
+        "сыр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "15",
+      "title": "Майами",
+      "price": 700,
+      "imageUrl": "https://тандыр1.рф/upload/shop_1/1/1/9/item_1190/item_1190.png",
+      "ingredients": [
+        "нори",
+        "угорь",
+        "чеддер",
+        "твор.сыр",
+        "огурцы"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "16",
+      "title": "Мини чиз ролл",
+      "price": 100,
+      "imageUrl": "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI3NDQwNTQwL29yaWdpbmFsLzEvMjAyMy0xMC0xOVQwOSUzQTA5JTNBNDEuMzU5MjY2JTJCMDAlM0EwMC8yNzQ0MDU0MF8xLmpwZw==.jpg",
+      "ingredients": [
+        "нори",
+        "cыр",
+        "унаги",
+        "огурцы",
+        "соус"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "17",
+      "title": "Унаги спайси ролл",
+      "price": 149,
+      "imageUrl": "https://fresh-n-fast.ru/f/store/3/322/600x600.jpg",
+      "ingredients": [
+        "нори",
+        "cыр",
+        "угорь",
+        "огурцы",
+        "Спайси соус"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "18",
+      "title": "Запеченная Филадельфия",
+      "price": 300,
+      "imageUrl": "https://storage.emenu.delivery/product/images/ol/sg/olsgqajf-5exfbnngip5tlyz4gxa-esw.jpg",
+      "ingredients": [
+        "нори",
+        "cыр",
+        "лосось",
+        "огруец",
+        "майонез"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "19",
+      "title": "Чиккен Спайси",
+      "price": 240,
+      "imageUrl": "https://pizzaexpress44.ru/media/cache/product_thumb/images/product/chiken-spaic.jpg",
+      "ingredients": [
+        "нори",
+        "болгарский перец",
+        "сыр",
+        "огруец",
+        "фирменный соус"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "20",
+      "title": "Запеченные с курицей",
+      "price": 220,
+      "imageUrl": "https://sun9-69.userapi.com/impf/JCNzGjOiSLcVmvM9ghMkZ1P2h4yUxAwD0h9efg/sZXsa_WxgrU.jpg?size=604x604&quality=96&sign=9ae61bbcf50998381be78f5a8655df18&type=album",
+      "ingredients": [
+        "нори",
+        "cыр",
+        "курица",
+        "майонез"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "21",
+      "title": "Запеченный Ролл с угрем",
+      "price": 240,
+      "imageUrl": "https://storage.emenu.delivery/product/images/cw/xy/cwxys_zaaw9n0vg5uzmgxmiqdcsuoleo.jpg",
+      "ingredients": [
+        "нори",
+        "cыр",
+        "кунжут",
+        "огруец",
+        "Унаги смесь"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "22",
+      "title": "Запеченный Ролл с крабом",
+      "price": 280,
+      "imageUrl": "https://sun9-40.userapi.com/impf/s1MJglfbTVpeJiLyqHVaozdxFGisYPqJHR2KsQ/AuJPVBsj99k.jpg?size=619x619&quality=96&sign=d02915b198b25a4ca564765d2f59bc7c&c_uniq_tag=sMxdVCbVsqC9Co-u-ldiZmdyy9WOqv-7f3N15ewCQgU&type=none",
+      "ingredients": [
+        "нори",
+        "cыр",
+        "масаго",
+        "огруец",
+        "канико смесь"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "23",
+      "title": "Сяке",
+      "price": 149,
+      "imageUrl": "https://yukber.uz/image/cache/catalog/5555555555-700x700.jpg",
+      "ingredients": [
+        "нори",
+        "лосось"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "24",
+      "title": "Мини ролл с крабом",
+      "price": 90,
+      "imageUrl": "https://azov.izumi-sushi.ru/image/cache/catalog/products/121-krab-500x500.png",
+      "ingredients": [
+        "нори",
+        "краб",
+        "майонез"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "25",
+      "title": "Мини ролл с чукой",
+      "price": 90,
+      "imageUrl": "https://tula.sushi-mag.com/image/cache/data/2017/may/chuka-500x500_9.jpg",
+      "ingredients": [
+        "нори",
+        "чука",
+        "кунжут"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "26",
+      "title": "Угани темпура",
+      "price": 210,
+      "imageUrl": "https://izumi-sushi.ru/wp-content/uploads/2017/12/unagi-tempura-1.jpg",
+      "ingredients": [
+        "угорь",
+        "сыр",
+        "нори",
+        "кляр",
+        "понко",
+        "сыр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "27",
+      "title": "Конверт с крабом",
+      "price": 300,
+      "imageUrl": "https://dandancafe.ru/d/konvert_s_kuritsey.jpg",
+      "ingredients": [
+        "нори",
+        "помидоры",
+        "краб басай",
+        "унаги соус",
+        "панко",
+        "кляр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "28",
+      "title": "Конверт с лососем",
+      "price": 300,
+      "imageUrl": "http://okinava14.ru/d/konvert_s_semgoy.jpg",
+      "ingredients": [
+        "нори",
+        "сыр",
+        "помидоры",
+        "лосось",
+        "басай",
+        "унаги соус",
+        "панко",
+        "кляр"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "29",
+      "title": "Темпура овощной",
+      "price": 170,
+      "imageUrl": "https://sushilis.ru/wp-content/uploads/2022/03/kunsey-1.jpg",
+      "ingredients": [
+        "нори",
+        "сыр",
+        "огурцы",
+        "перец",
+        "басай",
+        "панко"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "30",
+      "title": "Хару маки",
+      "price": 490,
+      "imageUrl": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/harumaki.jpg",
+      "ingredients": [
+        "спринг",
+        "cыр",
+        "тесто",
+        "огурцы",
+        "сахарная пудра",
+        "банан",
+        "киви",
+        "сироп  шоколадный"
+      ],
+      "categories": "rolls"
+    },
+    {
+      "id": "31",
+      "title": "Фламинго",
+      "price": 229,
+      "imageUrl": "https://media.leverans.ru/product_images_inactive/irkutsk/sushi-ostrov/%D1%84%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD%D0%B3%D0%BE.jpg",
+      "ingredients": [
+        "маминори",
+        "сахарная пудра",
+        "банан",
+        "киви",
+        "сироп  шоколадный",
+        "cыр"
+      ],
+      "categories": "rolls"
+    }
+  ],
+  "drinks": [
+    {
+      "id": "1",
+      "imageUrl": "https://www.coca-cola.com/content/dam/onexp/by/be/brands/coca-cola/by_coca-cola_prod_classic_750x750_v2.jpg",
+      "title": "Кока-кола",
+      "price": 100,
+      "categories": "drinks"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://sushi-panda15.ru/wp-content/uploads/2022/03/19641011_0_640x640.jpg",
+      "title": "Фанта",
+      "price": 100,
+      "categories": "drinks"
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://neman.kg/images/detailed/34/%D0%BB%D0%BE%D0%BB.JPG",
+      "title": "Спрайт",
+      "price": 100,
+      "categories": "drinks"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://yandex-images.clstorage.net/Iu9RV5399/a46170Imd/7Ol10Et4L6coswziiBaL6d7IF5-Hp8ogsX5aiCzoGlqkHf44lkIs8HQhGxysOpG-I-X1GSAzW9Ci5a58dAXsjaXsWfArCU6-aacR76RP5pmH4RKnD0sixQ3OsmXYUJKvKH3KUIIzcIFdMLKo5aMIou5EOJBJJlbZuiTqZQF88XlsDWS9RvAHuxRvkJqh5md9S0i3O6-jQm2Z0m6RpLAGp9yd7gDWF7X5QWiaTUlnzJJ2uITAhb6W7bb4Omn1JHEFmGUs-f7gF2cQx5BiofabsSfUsw8HP4ahIS72gfTEPi-IvdI8MnMprbXsBnWBt3T6OkSsDPGWWqEKFAp9pVCJ2YgBKJVCzGPXBH_YunkOH-031GMn85PCScnSBhG8XKIDPHniML7n9XXRfArtpaMA0k7EnBixavYp7lR28fEc4VHc_Sz5-mh79xRrJJadlv_x38T7fzN7QvmtnkIF8CxGTyQp_mAuuzEtuQRKYX1vZKJuLLho7Xp-QTLEeqlpxLnh2A0seVIAg7-ATyyu_baXrXNYq0cXI57pTe72cbQgGqP4vdLIukfBsSE8amXpk2yiIrQgGKnuhlmKJFoxmchJ_QiJEPGiWK9LvDO4tvXiH0GDVLs315daJc2KrgXMzEqHQP2KSEIzueGJxJJpUZMA5nZ0ONylznZVdjBqFanA5dn0tVglrvhn3_w_pG5dqo_xG-Dnvw87uqUp-i5hyOjCy4y1Egh2qzUtBcwGffWriJL-IKSA8fbWFdLEQq2pUOmF_DlsfcaQ83uM3zQi6fZzLXPINwsLB1op4SLi9dB8Cs8srSb8Fp_BGYEMwrXJv3DiOjTwjM3CKtm-_O6p8Yx1qdzBYGVCYJ9fHEtYJmXGk5GHrH8f6wf-2aHC-k2UxNZj9D1ysBZrOdlRAN5lfTP8RnYIIAwh3gbtvpTWvZnkYeUw4bSRytx_1zQjFGJVRn_hK0i714ez9gGV0lp9wNSc",
+      "title": "Компот",
+      "price": 120,
+      "categories": "drinks"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://vodovoz.ru/upload/iblock/c37/c373a671863882d2c54505d36e4f0274.jpeg",
+      "title": "Пепси",
+      "price": 100,
+      "categories": "drinks"
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://kakbog.com/wp-content/uploads/2016/12/bolno-xodit-v-tualet-narodnie-sredstva.jpg",
+      "title": "Чай черный",
+      "price": 50,
+      "categories": "drinks"
+    },
+    {
+      "id": "7",
+      "imageUrl": "https://sc01.alicdn.com/kf/He1a6c21b5c1549cc8d82a0b2fd82a41a9/220655033/He1a6c21b5c1549cc8d82a0b2fd82a41a9.jpg",
+      "title": "Чай зеленый",
+      "price": 50,
+      "categories": "drinks"
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://img-api.yumapos.ru/image/crop/512x512/834855f7-d603-798d-bf75-e17927f2c8bc.jpg",
+      "title": "Латте",
+      "price": 180,
+      "categories": "drinks"
+    },
+    {
+      "id": "9",
+      "imageUrl": "https://cafe-tandir.ru/wp-content/uploads/2023/01/screenshot_15-2-600x600.jpg",
+      "title": "Американо",
+      "price": 160,
+      "categories": "drinks"
+    },
+    {
+      "id": "10",
+      "imageUrl": "https://hardwooddepot.ca/wp-content/uploads/2019/03/coffe2.jpg",
+      "title": "Капучино",
+      "price": 180,
+      "categories": "drinks"
+    },
+    {
+      "id": "11",
+      "imageUrl": "https://sun9-59.userapi.com/impf/c633323/v633323988/29961/-uMHeMfXu_4.jpg?size=604x604&quality=96&sign=03d035fba8c372ac486bb3ca0966422f&c_uniq_tag=QC0LOkoi5orTWmJK7xaBu1DQYsq-Y7-jKAf8GO4Lmy8&type=album",
+      "title": "Вода",
+      "price": 50,
+      "categories": "drinks"
+    }
+  ],
+  "salad": [
+    {
+      "id": "1",
+      "title": "Салат Итальянский",
+      "price": 370,
+      "imageUrl": "https://i.pinimg.com/736x/ce/b1/54/ceb1541893d214610e6758d53738e873.jpg",
+      "ingredients": [
+        "салат Айсберг",
+        "колбаски Салями",
+        "ветчина",
+        "огурцы",
+        "помидоры",
+        "сладкий перец",
+        "маслины",
+        "сыр",
+        "красный лук",
+        "пикантный имбирный соус"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": "2",
+      "title": "Салат Греческий",
+      "price": 330,
+      "imageUrl": "https://ostrovok-vkusnoy-edi.ru/thumb/2/bipLHrvcsSo4OnZf8lwmiA/750r750/d/grecheskij_salat.jpg",
+      "ingredients": [
+        "Томаты",
+        "огурец",
+        "перец болгарский",
+        "маслины",
+        "сыр «Фета»",
+        "лук репчатый",
+        "масло оливковое"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": "3",
+      "title": "Салат Цезарь",
+      "price": 390,
+      "imageUrl": "https://st45.stblizko.ru/images/product/715/187/181_original.jpg",
+      "ingredients": [
+        "Томат",
+        "сыр твердый",
+        "куриное яйцо",
+        "гренки",
+        "салат айсберг",
+        "филе куриное",
+        "соус цезарь"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": "4",
+      "title": "Салат с курицей",
+      "price": 340,
+      "imageUrl": "https://www.chefmarket.ru/blog/wp-content/uploads/2018/05/3_1523598158_f1efa.jpg",
+      "ingredients": [
+        "помидор",
+        "перец",
+        "сладкий перец",
+        "курица",
+        "лук",
+        "салат"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": "5",
+      "title": "Салат куриный с ананасами",
+      "price": 370,
+      "imageUrl": "https://vkusvill.ru/upload/resize/576906/576906_1200x600x70_c.webp",
+      "ingredients": [
+        "салат Айсберг",
+        "куриное филе",
+        "ананасы",
+        "лук Фри",
+        "сыр Пармезан",
+        "соус Цезарь"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": "6",
+      "title": "Салат Овощной",
+      "price": 320,
+      "imageUrl": "https://static.1000.menu/img/content/38438/salat-ovoshchnoi-s-syrom_1567346563_5_max.jpg",
+      "ingredients": [
+        "салат Айсберг",
+        "огурцы",
+        "помидоры",
+        "сладкий перец",
+        "красный лук",
+        "маслины",
+        "соус с базиликом"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": "7",
+      "title": "Салат Цезарь с курицей",
+      "price": 320,
+      "imageUrl": "https://images.gastronom.ru/J4QYd8ouJytDoeRrTRbBjI88K-K2M7-NP71M8XE-Pm8/pr:recipe-cover-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzL2IxMzU5MzRkLWI1OTAtNDQ4Zi05MjA3LWQ5YzEzM2M2ODZlNy5qcGc",
+      "ingredients": [
+        "салат Айсберг",
+        "куриное филе",
+        "гренки",
+        "маслины",
+        "сыр Пармезан",
+        "соус Цезарь"
+      ],
+      "categories": "salad"
+    },
+    {
+      "id": "8",
+      "title": "Салат Цезарь с креветками",
+      "price": 440,
+      "imageUrl": "https://static.1000.menu/img/content-v2/c1/5d/22610/salat-cezar-s-krevetkami-klassicheskii_1612773942_19_max.jpg",
+      "ingredients": [
+        "салат Айсберг",
+        "обжаренные креветки",
+        "гренки",
+        "маслины",
+        "сыр Пармезан",
+        "соус Цезарь"
+      ],
+      "categories": "salad"
+    }
+  ],
+  "soup": [
+    {
+      "id": "1",
+      "title": "Суп Фо с говядиной",
+      "price": 420,
+      "imageUrl": "https://img.povar.ru/mobile/6f/cb/3c/09/sup_fo_s_govyadinoi-397233.png",
+      "ingredients": [
+        "бульон",
+        "говядина",
+        "рисовая лапша",
+        "зелень",
+        "красный лук",
+        "ростки Маш"
+      ],
+      "categories": "soup"
+    },
+    {
+      "id": "2",
+      "title": "Суп Фо с курицей",
+      "price": 400,
+      "imageUrl": "https://www.edimdoma.ru/data/recipes/0014/4721/144721-ed4_wide.jpg?1628759524",
+      "ingredients": [
+        "бульон",
+        "курица",
+        "рисовая лапша",
+        "зелень",
+        "красный лук",
+        "ростки Маш"
+      ],
+      "categories": "soup"
+    },
+    {
+      "id": "3",
+      "title": "Биф удон",
+      "price": 320,
+      "imageUrl": "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI3MzQ5MjU4L29yaWdpbmFsLzEvMjAyMy0xMC0xNlQxNSUzQTA3JTNBNDMuNTA2OTYwJTJCMDAlM0EwMC8yNzM0OTI1OF8xLmpwZw==.jpg",
+      "ingredients": [
+        "лапша",
+        "грибы «Шиитаке»",
+        "говядина",
+        "яйцо",
+        "лук репчатый",
+        "зеленый лук",
+        "удон",
+        "приправа «Дашида»"
+      ],
+      "categories": "soup"
+    },
+    {
+      "id": "4",
+      "title": "Суп Мисо",
+      "price": 340,
+      "imageUrl": "https://s1.eda.ru/StaticContent/Photos/120214142532/141218182207/p_O.jpg",
+      "ingredients": [
+        "мисо паста",
+        "соевый соус",
+        "кальмар",
+        "креветка",
+        "лук",
+        "лапша"
+      ],
+      "categories": "soup"
+    }
+  ],
+  "corndog": [
+    {
+      "id": "1",
+      "title": "Корейский корн дог",
+      "price": 70,
+      "imageUrl": "https://foodies.academy/wp-content/uploads/2019/07/20190708_153601-601x601.jpg",
+      "ingredients": [
+        "Сырная палочка Моцарела или сулугуги 3 шт",
+        "Сосиски 6 шт",
+        "Панировочные сухари Панко 30 гр",
+        "Сахар",
+        "Острый кетчуп",
+        "Медовая горчица"
+      ],
+      "categories": "corndog"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Erlan",
+      "text": "Так вкуснооо!!!",
+      "published_at": "2022-05-24",
+      "id": 1
+    }
+  ],
+  "all": {
+    "pizza": [
+      {
+        "id": 0,
+        "imageUrl": "https://sun9-42.userapi.com/impg/43562GDaoftt5KRYUwfLTy-wW4PIJNxmxGw0rg/GJaenwvxlhY.jpg?size=520x0&quality=95&sign=d92f9db07b2150abe4148db2dee2e125",
+        "title": "Пепперони Фреш с перцем",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "size": 0,
+        "price": 245,
+        "priceMiddle": 399,
+        "priceLarge": 499,
+        "categories": "pizza",
+        "rating": 4
+      },
+      {
+        "id": 1,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/50555f951a6d4fd4ac0088c099eb3769_1875x1875.png",
+        "title": "Сырная",
+        "types": [
+          0
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "size": 0,
+        "price": 245,
+        "priceMiddle": 399,
+        "priceLarge": 499,
+        "categories": "pizza",
+        "rating": 6
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/45cc8ffb190c4a28aaf1863a67f675c7_1875x1875.jpeg",
+        "title": "Цыпленок барбекю",
+        "types": [
+          0
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "size": 0,
+        "price": 395,
+        "priceMiddle": 599,
+        "priceLarge": 749,
+        "categories": "pizza",
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://sun9-33.userapi.com/impf/c850636/v850636013/18c85a/7E5V0MNNreI.jpg?size=520x0&quality=95&sign=84183fc81ee8bfb7ee75079982f0ad8d",
+        "title": "Кисло-сладкий цыпленок",
+        "types": [
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "size": 0,
+        "price": 395,
+        "priceMiddle": 599,
+        "priceLarge": 749,
+        "categories": "pizza",
+        "rating": 2
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://irecommend.ru/sites/default/files/product-images/278223/XRIa4KxVJxkTmHSqcYXbg.jpg",
+        "title": "Чизбургер-пицца",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "size": 0,
+        "price": 365,
+        "priceMiddle": 529,
+        "priceLarge": 649,
+        "categories": "pizza",
+        "rating": 8
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://sun9-12.userapi.com/impg/TyrlxVRfwM-vFElO4WUHccBunNHfgEyQogLsXw/2hoZhx5YWmk.jpg?size=520x0&quality=95&sign=86647ab84da81d8906a84a43801e4938",
+        "title": "Крэйзи пепперони",
+        "types": [
+          0
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "size": 0,
+        "price": 245,
+        "priceMiddle": 399,
+        "priceLarge": 499,
+        "categories": "pizza",
+        "rating": 2
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/11eec1126969de91a6543fa34b9914ff_1875x1875.png",
+        "title": "Пепперони",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "size": 0,
+        "price": 365,
+        "priceMiddle": 529,
+        "priceLarge": 649,
+        "categories": "pizza",
+        "rating": 9
+      },
+      {
+        "id": 7,
+        "imageUrl": "https://osetinskie-pirogi.cdnvideo.ru/images/foto/picca_margarita_700.jpg",
+        "title": "Маргарита",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "size": 0,
+        "price": 295,
+        "priceMiddle": 449,
+        "priceLarge": 569,
+        "categories": "pizza",
+        "rating": 10
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://kartinki.pics/uploads/posts/2021-07/1626831345_18-kartinkin-com-p-pitstsa-chetire-sezona-yeda-krasivo-foto-23.jpg",
+        "title": "Четыре сезона",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "size": 0,
+        "price": 365,
+        "priceMiddle": 529,
+        "priceLarge": 649,
+        "categories": "pizza",
+        "rating": 10
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/d6c9f93ea37649ac923e9586c034a5a0_1875x1875.png",
+        "title": "Овощи и грибы",
+        "types": [
+          0,
+          1
+        ],
+        "sizes": [
+          26,
+          30,
+          40
+        ],
+        "size": 0,
+        "price": 365,
+        "priceMiddle": 529,
+        "priceLarge": 649,
+        "categories": "pizza",
+        "rating": 7
+      }
+    ],
+    "sushi": [
+      {
+        "id": 1,
+        "title": "Cуши с угрем",
+        "price": 95,
+        "imageUrl": "https://www.gastronom.ru/binfiles/images/00000017/00022168.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "угорь"
+        ],
+        "categories": "sushi"
+      },
+      {
+        "id": 2,
+        "title": "Cуши с креветкой",
+        "price": 60,
+        "imageUrl": "https://cdn-ru4.foodpicasso.com/assets/2022/02/06/21cffc48c879d65aa56dbf42ea31e9b5---jpg_1000x_103c0_convert.jpg",
+        "ingredients": [
+          "Рис",
+          "креветка"
+        ],
+        "categories": "sushi"
+      },
+      {
+        "id": 3,
+        "title": "Cуши с лососем",
+        "price": 80,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpfYdqp5t6ok86fBWBgW2pP_xQcAXzrcy0b26x302AqTPew9dJFV03Nvhx745FuXk7s28&usqp=CAU",
+        "ingredients": [
+          "Рис",
+          "лосось"
+        ],
+        "categories": "sushi"
+      },
+      {
+        "id": 4,
+        "title": "Гункан Чиккен спайси",
+        "price": 40,
+        "imageUrl": "https://sushipoima.ru/upload/iblock/4bb/4bb0302c59392dd67a32e3d57f7367f7.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "Чиккен спайси",
+          "огурцы"
+        ],
+        "categories": "sushi"
+      },
+      {
+        "id": 5,
+        "title": "Cуши с тунцом",
+        "price": 110,
+        "imageUrl": "https://api.satoshisushi.ru/storage/488916b4c2c0872bb0a9aca13f58bc5d_origin.jpg",
+        "ingredients": [
+          "Рис",
+          "тунец"
+        ],
+        "categories": "sushi"
+      }
+    ],
+    "sets": [
+      {
+        "id": 1,
+        "title": "Весна",
+        "count": 68,
+        "combo": [
+          "Филадельфия 10шт",
+          "Хару маки 8шт",
+          "Майами 8шт",
+          "Цезарь 10шт",
+          "Эби чиз ролл 10шт",
+          "Сяке хотто 10",
+          "Чипо 8шт"
+        ],
+        "price": 1190,
+        "categories": "sets",
+        "imageUrl": "https://sushi-max.ru/thumb/2/z7TBn6FwoxmsnDzWtqyAHg/r/d/sushi-un-placer-de-los-ancestros-2.jpg"
+      },
+      {
+        "id": 2,
+        "title": "БигЛайт",
+        "count": 32,
+        "combo": [
+          "Филадельфия 8шт",
+          "Ролл с омлетом 8шт",
+          "Америка 8шт",
+          "Мини ролл с чукой 8шт"
+        ],
+        "price": 690,
+        "categories": "sets",
+        "imageUrl": "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI2NDkyNzcwL29yaWdpbmFsLzEvMjAyMy0wOS0wN1QxOCUzQTEzJTNBMjUuNjE4MjU1JTJCMDAlM0EwMC8yNjQ5Mjc3MF8xLmpwZw==.jpg"
+      },
+      {
+        "id": 3,
+        "title": "БигСет",
+        "count": 32,
+        "combo": [
+          "Филадельфия 8шт",
+          "Ролл с омлетом 8шт",
+          "Америка 8шт",
+          "Мини ролл с чукой"
+        ],
+        "price": 690,
+        "categories": "sets",
+        "imageUrl": "https://i1.wp.com/mega-sushi-73.ru/wp-content/uploads/2020/11/set-lyubimyj-kaliforniyafiladelfiyaunagi-tempurazapechenyj-krabzapechennyj-s-midiyami890r1450gr.jpg?fit=740%2C558&ssl=1"
+      },
+      {
+        "id": 4,
+        "title": "Гармония",
+        "count": 30,
+        "combo": [
+          "Гункан чикен спайси 2шт",
+          "Суши с креветкой 2шт",
+          "Суши с лососем 2шт",
+          "Калифорния 8шт",
+          "Филадельфия 8шт",
+          "Майами 8шт"
+        ],
+        "price": 1050,
+        "categories": "sets",
+        "imageUrl": "https://armiyasushi.ru/wp-content/uploads/2023/06/photo_2023-06-30-16.08.41.jpeg"
+      },
+      {
+        "id": 5,
+        "title": "Лайт",
+        "count": 16,
+        "combo": [
+          "Филадельфия 4шт",
+          "Роллы с омлетом 4шт",
+          "Америка 4шт",
+          "Мини ролл с Чукой 4шт"
+        ],
+        "price": 370,
+        "categories": "sets",
+        "imageUrl": "https://sushi-nyam.ru/img/_s/et/_set_jpg_1429820209.jpg$i$max$700$700$cc$$.jpeg"
+      },
+      {
+        "id": 6,
+        "title": "Темпура",
+        "count": 54,
+        "combo": [
+          "Чиз кунсей 10шт",
+          "Америка 10шт",
+          "Унаги темпуро 10шт",
+          "Спайси харумаки 10шт",
+          "Конверты с крабом 4шт",
+          "Сяке хотто 10шт"
+        ],
+        "price": 990,
+        "categories": "sets",
+        "imageUrl": "https://telegra.ph/file/e9ee2b6270fec2dbff32f.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Хит",
+        "count": 40,
+        "combo": [
+          "Чиз кунсей 10шт",
+          "Бонито 10шт",
+          "Чипо 10шт",
+          "Чикен спайси 8шт",
+          "Гункан чикен спайси 2шт"
+        ],
+        "price": 750,
+        "categories": "sets",
+        "imageUrl": "https://dya.sushihit67.ru/components/com_jshopping/files/img_products/full_set-vygodnyj.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Суси",
+        "count": 8,
+        "combo": [
+          "2 суши с тунцом",
+          "2 суши с с креветкой",
+          "2 суши с лососем",
+          "2 суши с угрем"
+        ],
+        "price": 790,
+        "categories": "sets",
+        "imageUrl": "https://pp.userapi.com/c841428/v841428889/f481/VZQPlymICbQ.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Ромсем",
+        "count": 58,
+        "combo": [
+          "Ролл с тунцом 10шт",
+          "Филадельфия 10шт",
+          "Дракон 10шт",
+          "Калифорния с ласосем 10шт",
+          "Майами 10шт",
+          "Запеченная филадельфия 8шт"
+        ],
+        "price": 1780,
+        "categories": "sets",
+        "imageUrl": "https://wasabi.kg/wp-content/uploads/2021/09/set-8.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Сет «Ассорти»",
+        "count": 35,
+        "combo": [
+          "Филадельфия 4шт",
+          "Калифорния с крабом 4шт",
+          "Чипо 4шт",
+          "Ролл с омлетом 4шт",
+          "Овара 5шт",
+          "Цезарь 5шт",
+          "Америка 5шт",
+          "Запеченный ролл с курицей 4шт"
+        ],
+        "price": 750,
+        "categories": "sets",
+        "imageUrl": "https://sushigorodok.ru/assets/images/products/131/set-assorti.jpg"
+      }
+    ],
+    "wok": [
+      {
+        "id": 1,
+        "title": "Босо лагман",
+        "price": 365,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLQpM054o5ZNEKgisNNlb1WZaL0CQ0pjl9g&usqp=CAU",
+        "youtube": "https://www.youtube.com/watch?v=bZZWI9NynSM",
+        "ingredients": [
+          "перец",
+          "китайская капуста",
+          "соевый соус",
+          "кунжут чинсай"
+        ],
+        "categories": "wok"
+      },
+      {
+        "id": 2,
+        "title": "Жидкий лагман",
+        "price": 465,
+        "imageUrl": "https://chef.tm/public/pics/477/477671_0.jpg",
+        "youtube": "https://www.youtube.com/watch?v=LZAnBgtCbKI",
+        "ingredients": [
+          "перец",
+          "китайская капуста",
+          "Кинза",
+          "подлив"
+        ],
+        "categories": "wok"
+      },
+      {
+        "id": 3,
+        "title": "Могуру лагман",
+        "price": 380,
+        "imageUrl": "https://img.iamcook.ru/2020/upl/recipes/zen/u-3a14c92d8e9672ba05bae99c8fb3aeb8.jpg",
+        "youtube": "https://www.youtube.com/watch?v=1-QpIiIDeuw",
+        "ingredients": [
+          "перец",
+          "китайская капуста",
+          "Кинза",
+          "древесные грибы",
+          "форель",
+          "краб",
+          "древесные грибы",
+          "трюфель"
+        ],
+        "categories": "wok"
+      },
+      {
+        "id": 4,
+        "title": "Цомян лагман",
+        "price": 265,
+        "imageUrl": "https://static.1000.menu/img/content-v2/70/e3/49449/comyan-jarenyi-lagman-po-uigurski_1596611119_1_max.jpg",
+        "youtube": "https://www.youtube.com/watch?v=i89RnmfYCVY&t=12s",
+        "ingredients": [
+          "Мясо",
+          "Лапша для лагмана готовая",
+          "Лук",
+          "Болгарский перец (красный)",
+          "Пекинская капуста",
+          "Сельдерей стручковый",
+          "Фасоль стручковая (джандо)",
+          "Зелень (лук и листья сельдерея)",
+          "Соевый соуc",
+          "Томатная паста",
+          "Перец острый",
+          "Чеснок",
+          "Соль",
+          "Хаджо",
+          "Черный перец",
+          "Масло растительное"
+        ],
+        "categories": "wok"
+      },
+      {
+        "id": 5,
+        "title": "Гуйру лагман",
+        "price": 320,
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/33/c7/e6/caption.jpg",
+        "youtube": "https://www.youtube.com/watch?v=eeP6pyuwCCo",
+        "ingredients": [
+          "мясо",
+          "большая луковица",
+          "помидора",
+          "свежий перец",
+          "селдерей",
+          "соль перец по вкусу",
+          "специи для лагмана",
+          "томатная  паста",
+          "соевой соус",
+          "растительное масло"
+        ],
+        "categories": "wok"
+      }
+    ],
+    "rolls": [
+      {
+        "id": 1,
+        "title": "Дракон",
+        "price": 300,
+        "imageUrl": "https://mykaleidoscope.ru/x/uploads/posts/2022-09/thumbs/1663621274_66-mykaleidoscope-ru-p-roll-drakon-pinterest-67.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "угорь",
+          "унаги",
+          "соус"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 2,
+        "title": "Эби маки",
+        "price": 300,
+        "imageUrl": "https://static.pizzasushiwok.ru/images/menu_new/158-1300.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр чеддер",
+          "креветка в темпуре",
+          "огурец",
+          "сыр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 3,
+        "title": "Эби чиз ролл",
+        "price": 300,
+        "imageUrl": "https://izumi-sushi.ru/wp-content/uploads/2017/01/Jebi-Chiz-Risnorikrevetka-tigrovajasyr.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр чеддер",
+          "креветка в темпуре",
+          "огурец",
+          "сыр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 4,
+        "title": "Фудзияма",
+        "price": 300,
+        "imageUrl": "https://sushin-syn.ru/image/cache/catalog/products_19/fudziyama-1000x1000.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "шрирачо",
+          "креветка в темпуре",
+          "огурец",
+          "масаго"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 5,
+        "title": "Ролл с огурцом",
+        "price": 120,
+        "imageUrl": "https://sushiwok.kg/img/38be000f5ecdb570eebfa5e3dc036dd7",
+        "ingredients": [
+          "Огурец",
+          "cыр",
+          "рис"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 6,
+        "title": "Ролл с омлетом",
+        "price": 150,
+        "imageUrl": "https://www.yaponamatrena.ru/upload/iblock/5f6/5f69c9cdc09e4d8e2b0240a7b2f9cd03.jpg",
+        "ingredients": [
+          "Омлет",
+          "cыр",
+          "рис",
+          "нори"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 7,
+        "title": "Чипо",
+        "price": 180,
+        "imageUrl": "https://sushiedi.kz/wp-content/uploads/2019/10/107-300x300.jpg",
+        "ingredients": [
+          "Рис",
+          "цезарь",
+          "соус",
+          "нори",
+          "курица",
+          "сыр пармезан",
+          "помидоры"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 8,
+        "title": "Филадельфия",
+        "price": 902,
+        "imageUrl": "https://sp-ao.shortpixel.ai/client/q_lossless,ret_img/https://cookery.site/wp-content/uploads/2019/12/photo_656723-678x381.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "лосось"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 9,
+        "title": "Овара",
+        "price": 250,
+        "imageUrl": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/owara.jpg",
+        "ingredients": [
+          "Рис",
+          "масаго",
+          "лук",
+          "стружки тунца",
+          "кунжут",
+          "очищенная кожа семги"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 10,
+        "title": "Бонито",
+        "price": 230,
+        "imageUrl": "https://vsem-edu-oblako.ru/upload/store/merchant240/medium/1589551440-IMG_2327(1).png",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "лук",
+          "струж тунца",
+          "кунжут",
+          "огурцы"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 11,
+        "title": "Калифорния с лососем",
+        "price": 295,
+        "imageUrl": "https://avatars.mds.yandex.net/get-maps-adv-crm/3927175/2a0000018755f656e349efd65c992eb1f7f6/landing_background",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "сыр",
+          "лосось",
+          "огурцы"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 12,
+        "title": "Калифорния с крабом",
+        "price": 295,
+        "imageUrl": "https://sun9-1.userapi.com/impg/M3IBgqbIRxHQ9mNX7tIcQ17MMOBcNu0opus8cw/pserjzbUuiU.jpg?size=604x604&quality=95&sign=4e0947ee96d021ab4f8db93a6f4dfdd7&c_uniq_tag=FKuQQUSYpDStiYewx224BEdhK3yJ26xU4jc1Vv_h5Qg&type=album",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "сыр",
+          "краб",
+          "огурцы"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 13,
+        "title": "Тигровый ролл",
+        "price": 700,
+        "imageUrl": "https://i.siteapi.org/RXqBeNCY_3n4Q394WjN_yT-d43s=/fit-in/1024x768/center/top/a99ebf267115222.s.siteapi.org/img/05b790b04aa3f25b5b4e37db77b97fb38df5c16b.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "лосось",
+          "креветка",
+          "сыр",
+          "огурцы"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 14,
+        "title": " Ролл с тунцом",
+        "price": 700,
+        "imageUrl": "https://optim.tildacdn.com/tild3764-3730-4636-b461-333634336431/-/format/webp/_2022-03-29_173409.png",
+        "ingredients": [
+          "тунец",
+          "нори",
+          "огурцы",
+          "сыр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 15,
+        "title": "Майами",
+        "price": 700,
+        "imageUrl": "https://sushi-hino.ru/images/stories/virtuemart/product/h_2.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "угорь",
+          "чеддер",
+          "твор.сыр",
+          "огурцы"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 16,
+        "title": "Мини чиз ролл",
+        "price": 100,
+        "imageUrl": "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI3NDQwNTQwL29yaWdpbmFsLzEvMjAyMy0xMC0xOVQwOSUzQTA5JTNBNDEuMzU5MjY2JTJCMDAlM0EwMC8yNzQ0MDU0MF8xLmpwZw==.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "унаги",
+          "огурцы",
+          "соус"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 17,
+        "title": "Унаги спайси ролл",
+        "price": 149,
+        "imageUrl": "https://rollserv.ru/sys/cache/imagerender/1920x1080_0/7361aefcbeedf23ee6aeb7c3b434bbdf.jpeg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "угорь",
+          "огурцы",
+          "Спайси соус"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 18,
+        "title": "запеченная Филадельфия",
+        "price": 300,
+        "imageUrl": "https://cdn.tokyo-city.ru/goods/_0044_fila_zape4ena.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "лосось",
+          "огруец",
+          "майонез"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 19,
+        "title": "Чиккен Спайси",
+        "price": 240,
+        "imageUrl": "https://sushishop.ru/assets/images/docs/399/2021chiken-spajs.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "болгарский перец",
+          "сыр",
+          "огруец",
+          "фирменный Чиккен спайси соус"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 20,
+        "title": "запеченные с курицей",
+        "price": 220,
+        "imageUrl": "https://static.1000.menu/img/content/24111/zapechennye-rolly-s-kopchennoi-kuricei_1511525655_1_max.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "курица",
+          "майонез"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 21,
+        "title": "запеченный Ролл с угрем",
+        "price": 240,
+        "imageUrl": "https://sushira63.ru/wp-content/uploads/2018/05/%D0%97%D0%B0%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D1%8B%D0%B9-%D1%80%D0%BE%D0%BB%D0%BB.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "кунжут",
+          "огруец",
+          "Унаги смесь"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 22,
+        "title": "запеченный Ролл с крабом",
+        "price": 280,
+        "imageUrl": "https://static-sl.insales.ru/images/products/1/1169/197346449/255%D1%80%D0%BE%D0%BB%D0%BB_%D0%97%D0%B0%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8%CC%86_%D0%9A%D1%80%D0%B0%D0%B1.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "cыр",
+          "масаго",
+          "огруец",
+          "канико смесь"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 23,
+        "title": "Сяке",
+        "price": 149,
+        "imageUrl": "https://yukber.uz/image/cache/catalog/5555555555-700x700.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "лосось"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 24,
+        "title": "Мини ролл с крабом",
+        "price": 90,
+        "imageUrl": "https://i.siteapi.org/1g0aP-uNLh2eZ_MPEdPpuCIVMYI=/fit-in/1024x768/center/top/a99ebf267115222.s.siteapi.org/img/2bfeb2c02ac4e9ea9a2273775332da107d4328bb.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "краб",
+          "майонез"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 25,
+        "title": "Мини ролл с чукой",
+        "price": 90,
+        "imageUrl": "https://tula.sushi-mag.com/image/cache/data/2017/may/chuka-500x500_9.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "чука",
+          "кунжут"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 26,
+        "title": "Угани темпура",
+        "price": 210,
+        "imageUrl": "https://izumi-sushi.ru/wp-content/uploads/2017/12/unagi-tempura-1.jpg",
+        "ingredients": [
+          "угорь",
+          "сыр",
+          "нори",
+          "кляр",
+          "понко",
+          "сыр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 27,
+        "title": "конверт с крабом",
+        "price": 300,
+        "imageUrl": "https://dandancafe.ru/d/konvert_s_kuritsey.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "помидоры",
+          "краб басай",
+          "унаги соус",
+          "панко",
+          "кляр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 28,
+        "title": "Конверт с лососем",
+        "price": 300,
+        "imageUrl": "http://okinava14.ru/d/konvert_s_semgoy.jpg",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "сыр",
+          "помидоры",
+          "лосось",
+          "басай",
+          "унаги соус",
+          "панко",
+          "кляр"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 29,
+        "title": "Темпура овощной",
+        "price": 170,
+        "imageUrl": "https://img.iamcook.ru/2018/upl/recipes/zen/u-5fbb87aeb81c054fc61035380863ee94.JPG",
+        "ingredients": [
+          "Рис",
+          "нори",
+          "сыр",
+          "огурцы",
+          "перец",
+          "басай",
+          "панко"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 30,
+        "title": "Хару маки",
+        "price": 490,
+        "imageUrl": "https://calorizator.ru/sites/default/files/imagecache/product_512/product/harumaki.jpg",
+        "ingredients": [
+          "Рис",
+          "спринг",
+          "cыр",
+          "тесто",
+          "огурцы",
+          "сахарная пудра",
+          "банан",
+          "киви",
+          "сироп  шоколадный"
+        ],
+        "categories": "rolls"
+      },
+      {
+        "id": 31,
+        "title": "Фламинго",
+        "price": 229,
+        "imageUrl": "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI0ODYyNTIyL29yaWdpbmFsLzEvMjAyMy0wNi0xNlQxNyUzQTMzJTNBNDUuMzA0NzY5JTJCMDAlM0EwMC8yNDg2MjUyMl8xLmpwZw==.jpg",
+        "ingredients": [
+          "Рис",
+          "маминори",
+          "сахарная пудра",
+          "банан",
+          "киви",
+          "сироп  шоколадный",
+          "cыр"
+        ],
+        "categories": "rolls"
+      }
+    ],
+    "drinks": [
+      {
+        "id": 1,
+        "imageUrl": "https://www.coca-cola.com/content/dam/onexp/by/be/brands/coca-cola/by_coca-cola_prod_classic_750x750_v2.jpg",
+        "title": "Кока-кола",
+        "price": 100,
+        "categories": "drinks"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://sushi-panda15.ru/wp-content/uploads/2022/03/19641011_0_640x640.jpg",
+        "title": "Фанта",
+        "price": 100,
+        "categories": "drinks"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://neman.kg/images/detailed/34/%D0%BB%D0%BE%D0%BB.JPG",
+        "title": "Спрайт",
+        "price": 100,
+        "categories": "drinks"
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://goodman.ru/upload/iblock/b8d/Kompot-Vishnevyy.png",
+        "title": "Компот",
+        "price": 120,
+        "categories": "drinks"
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://vodovoz.ru/upload/iblock/c37/c373a671863882d2c54505d36e4f0274.jpeg",
+        "title": "Пепси",
+        "price": 100,
+        "categories": "drinks"
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://organicspices.ru/wa-data/public/photos/31/00/31/31.970.jpg",
+        "title": "чай черный",
+        "price": 50,
+        "categories": "drinks"
+      },
+      {
+        "id": 7,
+        "imageUrl": "https://azbyka.ru/zdorovie/wp-content/uploads/2015/04/200424_1.jpg",
+        "title": "чай зеленый",
+        "price": 50,
+        "categories": "drinks"
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://img-global.cpcdn.com/recipes/2e0a6f35f2b0fc56/400x400cq70/photo.jpg",
+        "title": "латте",
+        "price": 180,
+        "categories": "drinks"
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://yablyk.com/wp-content/uploads/2021/04/americano-coffee.jpg",
+        "title": "Американо",
+        "price": 160,
+        "categories": "drinks"
+      },
+      {
+        "id": 10,
+        "imageUrl": "https://ambassador-manufaktura.ru/upload/medialibrary/4ff/4ff982a7c3d3a59d0525472472115390.jpg",
+        "title": "Капучино",
+        "price": 180,
+        "categories": "drinks"
+      },
+      {
+        "id": 11,
+        "imageUrl": "https://www.deloks.ru/upload/iblock/924/h44j6prya2rgghkby27g2snj70efpv3k/voda_negazirovannaya_pitevaya_aqua_minerale_akva_minerale_0_5_l_plastikovaya_butylka_4_full.jpg",
+        "title": "вода",
+        "price": 50,
+        "categories": "drinks"
+      }
+    ],
+    "salad": [
+      {
+        "id": 1,
+        "title": "Салат Итальянский",
+        "price": 370,
+        "imageUrl": "https://www.patee.ru/r/x6/1b/54/7c/640m.jpg",
+        "ingredients": [
+          "салат Айсберг",
+          "колбаски Салями",
+          "ветчина",
+          "огурцы",
+          "помидоры",
+          "сладкий перец",
+          "маслины",
+          "сыр",
+          "красный лук",
+          "пикантный имбирный соус"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 2,
+        "title": "Салат Греческий",
+        "price": 330,
+        "imageUrl": "https://img.delo-vcusa.ru/2014/02/grecheskij-salat.jpg",
+        "ingredients": [
+          "Томаты",
+          "огурец",
+          "перец болгарский",
+          "маслины",
+          "сыр «Фета»",
+          "лук репчатый",
+          "масло оливковое"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 3,
+        "title": "Салат Цезарь",
+        "price": 390,
+        "imageUrl": "https://ferma-m2.ru/images/shop/recipe_image/crop_shutterstock_1505620307.jpg",
+        "ingredients": [
+          "Томат",
+          "сыр твердый",
+          "куриное яйцо",
+          "гренки",
+          "салат айсберг",
+          "филе куриное",
+          "соус цезарь"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 4,
+        "title": "Салат с курицей",
+        "price": 340,
+        "imageUrl": "https://www.chefmarket.ru/blog/wp-content/uploads/2018/05/3_1523598158_f1efa.jpg",
+        "ingredients": [
+          "помидор",
+          "перец",
+          "сладкий перец",
+          "курица",
+          "лук",
+          "салат"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 5,
+        "title": "Салат куриный с ананасами",
+        "price": 370,
+        "imageUrl": "https://vkusvill.ru/upload/resize/576906/576906_1200x600x70_c.webp",
+        "ingredients": [
+          "салат Айсберг",
+          "куриное филе",
+          "ананасы",
+          "лук Фри",
+          "сыр Пармезан",
+          "соус Цезарь"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 6,
+        "title": "Салат Овощной",
+        "price": 320,
+        "imageUrl": "https://static.1000.menu/img/content/38438/salat-ovoshchnoi-s-syrom_1567346563_5_max.jpg",
+        "ingredients": [
+          "салат Айсберг",
+          "огурцы",
+          "помидоры",
+          "сладкий перец",
+          "красный лук",
+          "маслины",
+          "соус с базиликом"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 7,
+        "title": "Салат Цезарь с курицей",
+        "price": 320,
+        "imageUrl": "https://images.gastronom.ru/J4QYd8ouJytDoeRrTRbBjI88K-K2M7-NP71M8XE-Pm8/pr:recipe-cover-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzL2IxMzU5MzRkLWI1OTAtNDQ4Zi05MjA3LWQ5YzEzM2M2ODZlNy5qcGc",
+        "ingredients": [
+          "салат Айсберг",
+          "куриное филе",
+          "гренки",
+          "маслины",
+          "сыр Пармезан",
+          "соус Цезарь"
+        ],
+        "categories": "salad"
+      },
+      {
+        "id": 8,
+        "title": "Салат Цезарь с креветками",
+        "price": 440,
+        "imageUrl": "https://static.1000.menu/img/content-v2/c1/5d/22610/salat-cezar-s-krevetkami-klassicheskii_1612773942_19_max.jpg",
+        "ingredients": [
+          "салат Айсберг",
+          "обжаренные креветки",
+          "гренки",
+          "маслины",
+          "сыр Пармезан",
+          "соус Цезарь"
+        ],
+        "categories": "salad"
+      }
+    ],
+    "soup": [
+      {
+        "id": 1,
+        "title": "Суп Фо с говядиной",
+        "price": 420,
+        "imageUrl": "https://img.povar.ru/mobile/6f/cb/3c/09/sup_fo_s_govyadinoi-397233.png",
+        "ingredients": [
+          "бульон",
+          "говядина",
+          "рисовая лапша",
+          "зелень",
+          "красный лук",
+          "ростки Маш"
+        ],
+        "categories": "soup"
+      },
+      {
+        "id": 2,
+        "title": "Суп Фо с курицей",
+        "price": 400,
+        "imageUrl": "https://www.edimdoma.ru/data/recipes/0014/4721/144721-ed4_wide.jpg?1628759524",
+        "ingredients": [
+          "бульон",
+          "курица",
+          "рисовая лапша",
+          "зелень",
+          "красный лук",
+          "ростки Маш"
+        ],
+        "categories": "soup"
+      },
+      {
+        "id": 3,
+        "title": "Биф удон",
+        "price": 320,
+        "imageUrl": "https://imgproxy.sbermarket.ru/imgproxy/width-auto/czM6Ly9jb250ZW50LWltYWdlcy1wcm9kL3Byb2R1Y3RzLzI3MzQ5MjU4L29yaWdpbmFsLzEvMjAyMy0xMC0xNlQxNSUzQTA3JTNBNDMuNTA2OTYwJTJCMDAlM0EwMC8yNzM0OTI1OF8xLmpwZw==.jpg",
+        "ingredients": [
+          "лапша",
+          "грибы «Шиитаке»",
+          "говядина",
+          "яйцо",
+          "лук репчатый",
+          "зеленый лук",
+          "удон",
+          "приправа «Дашида»"
+        ],
+        "categories": "soup"
+      },
+      {
+        "id": 4,
+        "title": "Суп Мисо",
+        "price": 340,
+        "imageUrl": "https://s1.eda.ru/StaticContent/Photos/120214142532/141218182207/p_O.jpg",
+        "ingredients": [
+          "мисо паста",
+          "соевый соус",
+          "кальмар",
+          "креветка",
+          "лук",
+          "лапша"
+        ],
+        "categories": "soup"
+      }
+    ],
+    "corndog": [
+      {
+        "id": 1,
+        "title": "Корейский корн дог",
+        "price": 70,
+        "imageUrl": "https://foodies.academy/wp-content/uploads/2019/07/20190708_153601-601x601.jpg",
+        "ingredients": [
+          "Сырная палочка Моцарела или сулугуги 3 шт",
+          "Сосиски 6 шт",
+          "Панировочные сухари Панко 30 гр",
+          "Сахар",
+          "Острый кетчуп",
+          "Медовая горчица"
+        ],
+        "categories": "corndog"
+      }
+    ]
+  }
+}
